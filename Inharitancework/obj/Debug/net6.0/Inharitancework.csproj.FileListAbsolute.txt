@@ -1,0 +1,15 @@
+C:\Nesnetabanlıprogramlamaders\Inharitancework\Inharitancework\bin\Debug\net6.0\Inharitancework.exe
+C:\Nesnetabanlıprogramlamaders\Inharitancework\Inharitancework\bin\Debug\net6.0\Inharitancework.deps.json
+C:\Nesnetabanlıprogramlamaders\Inharitancework\Inharitancework\bin\Debug\net6.0\Inharitancework.runtimeconfig.json
+C:\Nesnetabanlıprogramlamaders\Inharitancework\Inharitancework\bin\Debug\net6.0\Inharitancework.dll
+C:\Nesnetabanlıprogramlamaders\Inharitancework\Inharitancework\bin\Debug\net6.0\Inharitancework.pdb
+C:\Nesnetabanlıprogramlamaders\Inharitancework\Inharitancework\obj\Debug\net6.0\Inharitancework.csproj.AssemblyReference.cache
+C:\Nesnetabanlıprogramlamaders\Inharitancework\Inharitancework\obj\Debug\net6.0\Inharitancework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nesnetabanlıprogramlamaders\Inharitancework\Inharitancework\obj\Debug\net6.0\Inharitancework.AssemblyInfoInputs.cache
+C:\Nesnetabanlıprogramlamaders\Inharitancework\Inharitancework\obj\Debug\net6.0\Inharitancework.AssemblyInfo.cs
+C:\Nesnetabanlıprogramlamaders\Inharitancework\Inharitancework\obj\Debug\net6.0\Inharitancework.csproj.CoreCompileInputs.cache
+C:\Nesnetabanlıprogramlamaders\Inharitancework\Inharitancework\obj\Debug\net6.0\Inharitancework.dll
+C:\Nesnetabanlıprogramlamaders\Inharitancework\Inharitancework\obj\Debug\net6.0\refint\Inharitancework.dll
+C:\Nesnetabanlıprogramlamaders\Inharitancework\Inharitancework\obj\Debug\net6.0\Inharitancework.pdb
+C:\Nesnetabanlıprogramlamaders\Inharitancework\Inharitancework\obj\Debug\net6.0\Inharitancework.genruntimeconfig.cache
+C:\Nesnetabanlıprogramlamaders\Inharitancework\Inharitancework\obj\Debug\net6.0\ref\Inharitancework.dll
